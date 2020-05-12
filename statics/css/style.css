@@ -6,7 +6,7 @@ body{
 .zone {
     /*padding:30px 50px;
     margin:40px 60px;*/
-    cursor:pointer;
+    cursor:default;
     /*display:inline-block;*/
     color:#FFF;
     font-size:2em;
